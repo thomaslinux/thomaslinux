@@ -8,21 +8,16 @@ Linux user for as far as I can remember. I like to make userscripts in **JavaScr
 
 https://github.com/thomaslinux/projetEncheres
 
-Back :
-- Java Spring Boot
-- Microsoft SQL Server
-
-Front :
-- Thymeleaf
-- CSS native
+|Back :|Front :|
+|:--|:--|
+|Java Spring Boot|Thymeleaf|
+|Microsoft SQL Server|CSS native|
 
 ## sortirSly
 
 https://github.com/thomaslinux/sortirSly
 
-Back : 
-- PHP Symfony
-
-Front :
-- Twig
-- CSS native
+|Back :|Front :|
+|:--|:--|
+|PHP Symfony|Twig|
+|MariaDB|CSS native|
