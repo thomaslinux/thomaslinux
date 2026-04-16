@@ -1,0 +1,9 @@
+= List of things
+
+A list of links I want to have available on any PC and that I can send to any person.
+
+== Useful userscripts :
+https://greasyfork.org/fr/scripts/568818-youtube-auto-pause-bypass
+
+== Interesting websites :
+https://www.april.org/ (défendre le logiciel libre)
