@@ -2,6 +2,10 @@
 
 Linux user for as far as I can remember. I like to make userscripts in **JavaScript** and userstyles in **CSS** to change the behavior of websites. I also like to write automation .sh and .bat scripts.
 
+# Public notes
+https://github.com/thomaslinux/thomaslinux/blob/main/list-of-things.adoc
+
+
 # Front & Back projects
 
 ## projetEncheres
