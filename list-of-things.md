@@ -29,3 +29,7 @@ https://www.wappalyzer.com/technologies/javascript-libraries/swiper/
 ## ERP Facturation électronique :
 
 https://axonaut.com/
+
+## Markdown :
+
+[``How to use <details> <summary> expandable content on GitHub with Markdown``](https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2)
